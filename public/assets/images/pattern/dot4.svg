@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="600" viewBox="0 0 600 600" xml:space="preserve">
+<desc>Created with Fabric.js 4.0.0-beta.8</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 300.5 300.5)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  x="-300" y="-300" rx="0" ry="0" width="600" height="600" />
+</g>
+<g transform="matrix(0.16 0 0 0.16 300 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 320 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 310 317.32)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 290 317.32)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 280 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 290 282.68)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 310 282.68)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 340 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 334.64 320)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 320 334.64)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 300 340)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 280 334.64)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 265.36 320)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 260 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 265.36 280)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 280 265.36)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 300 260)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 320 265.36)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.13 0 0 0.13 334.64 280)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 360 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 356.38 320.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 345.96 338.57)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 330 351.96)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 310.42 359.09)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 289.58 359.09)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 270 351.96)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 254.04 338.57)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 243.62 320.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 240 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 243.62 279.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 254.04 261.43)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 270 248.04)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 289.58 240.91)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 310.42 240.91)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 330 248.04)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 345.96 261.43)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 356.38 279.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 380 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 377.49 319.9)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 370.1 338.54)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 358.32 354.76)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 342.87 367.55)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 324.72 376.08)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 305.02 379.84)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 285.01 378.58)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 265.94 372.39)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 249.01 361.64)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 235.28 347.02)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 225.62 329.45)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 220.63 310.03)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 220.63 289.97)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 225.62 270.55)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 235.28 252.98)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 249.01 238.36)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 265.94 227.61)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 285.01 221.42)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 305.02 220.16)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 324.72 223.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 342.87 232.45)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 358.32 245.24)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 370.1 261.46)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.09 0 0 0.09 377.49 280.1)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 400 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 397.95 320.13)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 391.9 339.44)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 382.08 357.13)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 368.9 372.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 352.9 384.86)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 334.73 393.78)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 315.14 398.85)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 294.94 399.87)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 274.93 396.81)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 255.96 389.78)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 238.79 379.08)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 224.12 365.14)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 212.57 348.53)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 204.59 329.94)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 200.51 310.12)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 200.51 289.88)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 204.59 270.06)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 212.57 251.47)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 224.12 234.86)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 238.79 220.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 255.96 210.22)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 274.93 203.19)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 294.94 200.13)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 315.14 201.15)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 334.73 206.22)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 352.9 215.14)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 368.9 227.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 382.08 242.87)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 391.9 260.56)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 397.95 279.87)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 420 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 418.27 320.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 413.15 339.98)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 404.76 358.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 393.36 375.39)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 379.28 390.08)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 362.92 402.18)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 344.74 411.35)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 325.28 417.31)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 305.09 419.89)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 284.76 419.03)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 264.86 414.74)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 245.98 407.15)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 228.64 396.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 213.37 383.03)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 200.58 367.2)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 190.65 349.43)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 183.87 330.24)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 180.43 310.18)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 180.43 289.82)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 183.87 269.76)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 190.65 250.57)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 200.58 232.8)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 213.37 216.97)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 228.64 203.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 245.98 192.85)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 264.86 185.26)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 284.76 180.97)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 305.09 180.11)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 325.28 182.69)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 344.74 188.65)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 362.92 197.82)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 379.28 209.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 393.36 224.61)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 404.76 241.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 413.15 260.02)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 418.27 279.72)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 440 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 438.51 320.38)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 434.06 340.33)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 426.76 359.42)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 416.76 377.25)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 404.27 393.42)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 389.55 407.61)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 372.93 419.5)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 354.75 428.85)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 335.41 435.45)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 315.31 439.16)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 294.89 439.91)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 274.57 437.67)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 254.8 432.5)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 235.99 424.51)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 218.54 413.86)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 202.83 400.79)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 189.19 385.56)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 177.91 368.52)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 169.24 350.01)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 163.35 330.44)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 160.37 310.22)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 160.37 289.78)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 163.35 269.56)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 169.24 249.99)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 177.91 231.48)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 189.19 214.44)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 202.83 199.21)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 218.54 186.14)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 235.99 175.49)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 254.8 167.5)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 274.57 162.33)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 294.89 160.09)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 315.31 160.84)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 335.41 164.55)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 354.75 171.15)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 372.93 180.5)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 389.55 192.39)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 404.27 206.58)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 416.76 222.75)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 426.76 240.58)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 434.06 259.67)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.05 0 0 0.05 438.51 279.62)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 460 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 458.74 320.05)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 454.97 339.79)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 448.76 358.9)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 440.21 377.08)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 429.44 394.05)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 416.63 409.53)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 401.99 423.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 385.73 435.09)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 368.12 444.77)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 349.44 452.17)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 329.98 457.17)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 310.05 459.68)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 289.95 459.68)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 270.02 457.17)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 250.56 452.17)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 231.88 444.77)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 214.27 435.09)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 198.01 423.28)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 183.37 409.53)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 170.56 394.05)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 159.79 377.08)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 151.24 358.9)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 145.03 339.79)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 141.26 320.05)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 140 300)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 141.26 279.95)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 145.03 260.21)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 151.24 241.1)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 159.79 222.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 170.56 205.95)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 183.37 190.47)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 198.01 176.72)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 214.27 164.91)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 231.88 155.23)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 250.56 147.83)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 270.02 142.83)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 289.95 140.32)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 310.05 140.32)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 329.98 142.83)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 349.44 147.83)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 368.12 155.23)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 385.73 164.91)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 401.99 176.72)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 416.63 190.47)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 429.44 205.95)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 440.21 222.92)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 448.76 241.1)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.5; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 454.97 260.21)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.03 0 0 0.03 458.74 279.95)"  >
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,85,255); fill-opacity: 0.85; fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+</svg>

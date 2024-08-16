@@ -27,6 +27,12 @@ const webRouter = (pool) => {
       title: "Default Home | PWA App",
     });
   });
+  
+  router.get("/forget-password", (req, res) => {
+    res.render("forget-password", {
+      title: "Forget Password | PWA App",
+    });
+  });
 
   return router;
 };
