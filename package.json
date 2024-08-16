@@ -1,0 +1,30 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "concurrently \"npm run css:build\" \"node app.js\"",
+    "dev": "concurrently \"npm run dev:server\" \"npm run css:watch\"",
+    "dev:server": "nodemon app.js",
+    "css:build": "postcss public/assets/css/tailwind.css -o public/assets/css/styles.css",
+    "css:watch": "postcss public/assets/css/tailwind.css -o public/assets/css/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "I-As.Dev",
+  "license": "MIT",
+  "description": "Multi-Role User Template is a Node.js-based application template designed to support a user management system with various roles.",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mysql2": "^3.11.0",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^3.4.10"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4"
+  }
+}
