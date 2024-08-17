@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<%- include('../partials/head') %>
+</head>
+<body>
+	<%- include('components/header') %>
+	<%- include('components/mobile-menu') %>
+	
+	    <div class="bg-slate-100 h-full mt-[77px]  py-3 px-3">
+			<section class="relative overflow-hidden">
+				<div class="container">
+					<div class="flex">
+						<div class="w-full">
+							<h3 class="text-xl text-gray-800 mt-2">Account Settings</h3>
+							<p class="mt-1 font-medium mb-4">Change your account settings</p>
+						</div>
+					</div>
+					
+					<div class="flex mt-2">
+						<div class="w-full">
+							<div class="bg-white rounded">
+								<div class="p-6">
+									<div class="grid lg:grid-cols-4 gap-6" data-fc-type="tab">
+										<!-- menu start -->
+										<div class="col-span-1">
+											<nav aria-label="Tabs" class="flex flex-row lg:flex-col gap-2 w-auto lg:w-full bg-slate-100 p-1.5 rounded-md lg:justify-start" role="tablist">
+												<button class="fc-tab-active:bg-white fc-tab-active:text-primary text-start py-2 px-4 rounded bg-transparent transition-all active" data-fc-target="#account" type="button">
+													Account
+												</button>
+												<button class="fc-tab-active:bg-white fc-tab-active:text-primary text-start py-2 px-4 rounded bg-transparent transition-all" data-fc-target="#password" type="button">
+													Password
+												</button>
+											</nav>
+										</div>
+										<!-- menu end -->
+										<div class="lg:col-span-3 transition-all px-4 h-full">
+											<div id="account" class="min-h-[650px]">
+												<h4 class="text-base text-gray-800">Account Information</h4>
+
+												<div>
+													<!-- avatar start -->
+													<h6 class="mt-6 mb-2.5 text-sm text-gray-800">Your Avatar</h6>
+													<div class="flex items-center gap-6">
+														<div class="sharink">
+															<div class="w-16 h-16">
+																<img src="/assets/images/avatars/img-8.jpg" class="max-w-full max-h-full rounded-full shadow" alt="...">
+															</div>
+														</div>
+														<form class="grow flex items-center gap-2">
+															<input type="file" class="file:bg-blue-600 file:hover:bg-blue-500 file:p-1 file:rounded file:border-none file:text-white inline-flex items-center justify-center rounded text-xs font-semibold border border-primary text-primary px-3 py-2">
+															<button type="submit" class="inline-flex items-center justify-center rounded text-xs font-semibold text-white transition-all hover:shadow-lg bg-primary hover:bg-blue-500 focus:shadow-none px-4 py-3">
+																Save
+															</button>
+														</form>
+													</div>
+													<!-- avatar end -->
+
+													<hr class="my-6">
+
+													<!-- basic info start -->
+													<form>
+														<div class="grid grid-cols-2 items-center gap-6">
+															<div class="mb-4">
+																<label for="display_fullname" class="block text-sm font-semibold mb-1 text-gray-600">Full Name<small>*</small></label>
+																<input name="name" type="text" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="display_fullname" placeholder="Your Name" value="Fitri HY">
+															</div>
+														</div>
+
+														<div class="grid grid-cols-2 items-center gap-6">
+															<div class="mb-4">
+																<label for="display_email" class="block text-sm font-semibold mb-1 text-gray-600">Email<small>*</small></label>
+																<input name="email" type="email" class="w-full py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="display_email" placeholder="Your Email" value="fitri-hy@i-as.dev">
+															</div>
+															
+															<div class="mb-4">
+																<label for="display_phone" class="block text-sm font-semibold mb-1 text-gray-600">Phone<small>*</small></label>
+																<input name="phone" type="number" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="display_phone" aria-describedby="display_phone" placeholder="Your Phone" value="0800000000">
+															</div>
+														</div>
+														
+														<div class="grid grid-cols-1 items-center gap-6">
+															<div class="mb-4">
+																<label for="display_address" class="block text-sm font-semibold mb-1 text-gray-600">Address<small>*</small></label>
+																<textarea name="address" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="display_address" placeholder="Your Address">Jl. Merdeka No.10, Bintaro, Tangerang Selatan</textarea>
+															</div>
+														</div>
+														
+														<!-- save start -->
+														<div class="flex mt-3">
+															<div class="w-full">
+																<button type="submit" class="inline-flex items-center justify-center py-3 px-4 rounded-lg text-sm font-semibold transition-all hover:shadow-lg bg-primary text-white hover:shadow-primary/30 focus:shadow-none focus:outline focus:outline-primary/40 ">Save Changes</button>
+															</div>
+														</div>
+														<!-- save end -->
+													</form>
+													<!-- basic info end -->
+													
+												</div>
+											</div><!-- end tab -->
+
+											<div id="password" class="hidden min-h-[650px]">
+												<h4 class="text-base text-gray-800">Password</h4>
+												
+												<form action="#" class="mt-6">
+													<div class="mb-4">
+														<label for="name" class="block text-sm font-semibold mb-1 text-gray-600">Current Password<small>*</small></label>
+														<input type="password" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="current_password" aria-describedby="current_password" name="current_password">
+													</div>
+
+													<div class="mb-4">
+														<label for="name" class="block text-sm font-semibold mb-1 text-gray-600">New Password<small>*</small></label>
+														<input type="password" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="new_password" aria-describedby="current_password" name="new_password">
+													</div>
+
+													<div class="mb-4">
+														<label for="name" class="block text-sm font-semibold mb-1 text-gray-600">Confirm Password<small>*</small></label>
+														<input type="password" class="py-2 px-4 leading-6 block w-full text-gray-700 border-gray-300 rounded text-sm focus:border-gray-300 focus:ring-0" id="confirm_password" aria-describedby="current_password" name="confirm_password">
+													</div>
+
+													<hr class="my-6">
+
+													<!-- save start -->
+													<div class="row mt-3">
+														<div class="col-lg-12">
+															<button type="submit" class="inline-flex items-center justify-center py-3 px-4 rounded-lg text-sm font-semibold transition-all hover:shadow-lg bg-primary text-white hover:shadow-primary/30 focus:shadow-none focus:outline focus:outline-primary/40">Update Password</button>
+														</div>
+													</div>
+													<!-- save end -->
+												</form>
+											</div><!-- end tab -->
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+
+	<%- include('components/footer') %>
+	
+	<button data-toggle="back-to-top" class="fixed text-sm rounded-full z-10 bottom-5 end-5 h-9 w-9 text-center bg-primary/20 text-primary flex justify-center items-center">
+        <i class="fa-solid fa-arrow-up text-base"></i>
+    </button>
+  
+	<%- include('../partials/script') %>
+	<%- include('partials/script') %>
+</body>
+</html>

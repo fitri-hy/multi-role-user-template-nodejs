@@ -4,6 +4,7 @@ const path = require("path");
 const pool = require("./config/database");
 const authRoute = require("./routes/authRoute");
 const webRoute = require("./routes/webRoute");
+const adminRoute = require("./routes/adminRoute");
 const errorRoute = require("./routes/errorRoute");
 
 const app = express();
@@ -32,6 +33,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use("/", authRoute(pool));
 app.use("/", webRoute(pool));
+app.use("/", adminRoute(pool));
 app.use(errorRoute());
 
 app.listen(PORT, () => {
