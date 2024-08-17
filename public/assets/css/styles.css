@@ -765,6 +765,12 @@ video {
 .mt-\[77px\] {
   margin-top: 77px;
 }
+.mb-7 {
+  margin-bottom: 1.75rem;
+}
+.mt-16 {
+  margin-top: 4rem;
+}
 .block {
   display: block;
 }
@@ -1002,6 +1008,9 @@ video {
 .gap-7 {
   gap: 1.75rem;
 }
+.gap-16 {
+  gap: 4rem;
+}
 .gap-x-3 {
   -moz-column-gap: 0.75rem;
        column-gap: 0.75rem;
@@ -1082,6 +1091,9 @@ video {
 .border-\[10px\] {
   border-width: 10px;
 }
+.border-\[6px\] {
+  border-width: 6px;
+}
 .border-b {
   border-bottom-width: 1px;
 }
@@ -1115,6 +1127,16 @@ video {
 .border-white {
   --tw-border-opacity: 1;
   border-color: rgb(255 255 255 / var(--tw-border-opacity));
+}
+.border-slate-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(203 213 225 / var(--tw-border-opacity));
+}
+.border-blue-600\/80 {
+  border-color: rgb(37 99 235 / 0.8);
+}
+.border-blue-600\/20 {
+  border-color: rgb(37 99 235 / 0.2);
 }
 .border-b-transparent {
   border-bottom-color: transparent;
@@ -1223,8 +1245,17 @@ video {
 .to-gray-100\/50 {
   --tw-gradient-to: rgb(243 244 246 / 0.5) var(--tw-gradient-to-position);
 }
+.to-gray-100 {
+  --tw-gradient-to: #f3f4f6 var(--tw-gradient-to-position);
+}
 .fill-white {
   fill: #fff;
+}
+.stroke-green-500 {
+  stroke: #22c55e;
+}
+.stroke-2 {
+  stroke-width: 2;
 }
 .\!p-2 {
   padding: 0.5rem !important;
@@ -1348,6 +1379,12 @@ video {
 }
 .pt-4 {
   padding-top: 1rem;
+}
+.pb-36 {
+  padding-bottom: 9rem;
+}
+.pt-44 {
+  padding-top: 11rem;
 }
 .text-left {
   text-align: left;
@@ -1726,6 +1763,12 @@ video {
   width: 100%;
 }
 
+.after\:rotate-45::after {
+  content: var(--tw-content);
+  --tw-rotate: 45deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
 .after\:bg-green-500\/50::after {
   content: var(--tw-content);
   background-color: rgb(34 197 94 / 0.5);
@@ -1894,6 +1937,12 @@ video {
   .sm\:text-lg {
     font-size: 1.125rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:shadow-none {
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   }
 }
 
@@ -2119,6 +2168,10 @@ video {
 
   .\32xl\:w-9\/12 {
     width: 75%;
+  }
+
+  .\32xl\:w-\[140\%\] {
+    width: 140%;
   }
 
   .\32xl\:after\:-end-8::after {
